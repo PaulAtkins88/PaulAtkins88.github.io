@@ -16,7 +16,7 @@ author: Paul Atkins
 ### You should answer the questions below as best you can. Each answer should be one paragraph in length.
 * What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 
-When I was 6 years old, just learning to read my dad gave me the "Disney's Computer Fun" [![Disney's Computer Fun!](img/disney_book.jpg =250x)](https://drive.google.com/file/d/0BweO6Y13Cmc4dnhxanhoS3VfenM/view)
+When I was 6 years old, just learning to read my dad gave me the "Disney's Computer Fun" [![Disney's Computer Fun!](img/disney_book.jpg=250x)](https://drive.google.com/file/d/0BweO6Y13Cmc4dnhxanhoS3VfenM/view)
 
 * Why did you choose to come to RMIT?
 * What do you expect to learn during your studies?
