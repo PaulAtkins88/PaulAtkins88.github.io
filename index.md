@@ -1,5 +1,5 @@
 ---
-title:
+title: Introduction to IT - Assignment 1
 author: Paul Atkins
 ---
 
