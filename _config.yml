@@ -4,7 +4,7 @@ baseurl: ""
 title: Paul Atkins - Introduction to Information Technology SP1 2019
 desc: This is Assignment 1 for subject introduction to information technology
 author: paulatkins88@gmail.com
-    name: Paul Atkins
+name: Paul Atkins
 social-network-links:
     rss: true
     github_username: PaulAtkins88
