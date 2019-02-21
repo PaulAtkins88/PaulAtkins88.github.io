@@ -3,6 +3,14 @@ title: Introduction to IT - Assignment 1
 author: Paul Atkins
 ---
 
+# Personal Information
+
+* Paul Atkins
+* s3779053
+* paulatkins88@gmail.com
+* Studied Diploma of IT in 2005, Languages? Other than english? None. Coding? well a different answer.
+* Hobbies - Goofing around with my kids! Watching trashy TV with my beautiful wife. In my personal time I write code, I am currently working on an android application specifically for my work that will calculate a years roster and display the current net take home dollar amount in 1 click (this is a bit tricky as we rotate 2 days, 2 nights, 4 off with different penalties depending on the day/night you are working.)
+* Fun Fact - I like to play squash and go skateboarding with my daughters.
 
 # Interest in IT
 ### You should answer the questions below as best you can. Each answer should be one paragraph in length.
