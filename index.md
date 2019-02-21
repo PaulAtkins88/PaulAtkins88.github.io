@@ -1,3 +1,9 @@
+---
+title: Introduction to IT - Assignment 1
+author: Paul Atkins
+---
+
+
 # Interest in IT
 ### You should answer the questions below as best you can. Each answer should be one paragraph in length.
 * What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
@@ -5,7 +11,7 @@
 * What do you expect to learn during your studies?
 
 # Ideal Job
-### Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
+Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
 
 There are various ways to search for IT jobs, including websites like {seek.com.au}. You should include the following information.
 
@@ -68,7 +74,7 @@ __Tools and Technologies__ (100) words) - Describe the software, hardware and/or
 
 __Skills Required__ (100 words) - List the skills are required for your project, including software that needs to be written, and special hardware (if any). How feasible will it be to find the skills, software and hardware required?
 
-__Outcome (100 words)__ - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?
+__Outcome__ (100 words) - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?
 
 
 
