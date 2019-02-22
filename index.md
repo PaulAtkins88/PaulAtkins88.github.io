@@ -29,7 +29,7 @@ My friend advised me of an opportunity arising in Ballarat with [ESTA](http://ww
 
 Then comes Marriage, Children and a mortgage - Suddenly I cannot resume my goal of working in the IT environment due to the fact I cant drop wage a cent to pursue full time study.
 
-Its then someone at work said "Hey have you had a look at [OUA](http://www.open.edu.au)? It was then that i got excited about the fact that I could work fulltime and study in the down periods and on my days off.
+Its then someone at work said "Hey have you had a look at [OUA](http://www.open.edu.au)? I got excited about the fact that I could work fulltime and study in the down periods and on my days off.
 
 I chose RMIT over Swinburne primarily because "Royal Melbourne **Institute of Technology**" made sense to me wanting to do a Bachelors in Information Technology. After doing some research on the lectures and job opportunities at RMIT it just cemented by decision.
 
