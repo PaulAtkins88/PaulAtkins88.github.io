@@ -54,26 +54,34 @@ I have completed many courses on
 
 My favourite has been Java as it is widely used on many devices and is the main language used in Android Application Development.
 
-My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where i can implement positive change to the way we handle information.
+My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where I can implement positive change to the way we handle information.
 
 # Ideal Job
 When i think of an ideal programmer career I think about Google. Maps, Street view, Android (yes i know didnt start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
 
 [Google Software Engineer][googleLink] 
-***
+___
 ![Google Software Engineer][googleJob]
-***
+___
+
+### A description (in your own words) of the position, and particularly what makes this position appealing to you.
+Google are seeking a graduate after finishing university, someone to help with current projects and also to bring new ideas and new innovations. Google promote creativity! 
+It is an engineering company, Sure there to make a buck but I believe are successful due to wanting to make the world of electronic engineering better than before. I would love to start a career with Google as I believe it would never become mundane, the possibilities alone to work in Australia, or anywhere in the world. And I hear they have a slide.
+
+### A description (in your own words) of the skills, qualifications and experience required for the position.
+They want a post grad, assuming adept knowledge in programming in some languages, not all. Understanding of IT, Software Development. Also mentions experience in networking prograaming (Assuming routing tables, maintaining patches, PowerShell). Experience in multiple OS (Operating Systems).
+
+I possess the following skills relating to the role:
+    * OO (Object Orientated) programming languages. Java, C#, JS, Basic HTML, bash.
+    * Networking hardware. Router configuration, patch panels, installing rack mount hardware, 
+    * Working in teams groups 
+    * Excellent communication skills 
+    * Honesty & Integrity
+    * Fun to have around!
 
 
-Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
-
-There are various ways to search for IT jobs, including websites like {seek.com.au}. You should include the following information.
-
-The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline).
-* A description (in your own words) of the position, and particularly what makes this position appealing to you.
-* A description (in your own words) of the skills, qualifications and experience required for the position.
-* A description (in your own words) of the skills, qualifications and experience you currently have.
-* A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
+### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
+My plan is to finish my Bachelors with RMIT! Keep my Linkedin profile up to date and pay attention to Googles development profile on Linkedin.
 
 
 # Personal Profile
