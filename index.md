@@ -45,7 +45,10 @@ My favourite has been Java as it is widely used on many devices and is the main 
 My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where i can implement positive change to the way we handle information.
 
 # Ideal Job
-[GOOGLE](https://careers.google.com/jobs/results/82102238182286022/) 
+When i think of an ideal programmer career I think about Google. Maps, Street view, Android (yes i know didnt start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
+
+[Google Software Engineer](https://careers.google.com/jobs/results/82102238182286022/) 
+[Google Software Engineer]:(img/googleJob.png)
 
 Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
 
