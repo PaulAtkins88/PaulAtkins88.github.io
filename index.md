@@ -3,7 +3,7 @@ title: Introduction to IT - Assignment 1
 author: Paul Atkins
 ---
 
-[googleJob]:(img/googleJob.png)
+[googleJob]:img/googleJob.png "Google Software Engineer"
 
 # Personal Information
 
