@@ -54,7 +54,7 @@ I have completed many courses on
 
 My favourite has been Java as it is widely used on many devices and is the main language used in Android Application Development.
 
-My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where I can implement positive change to the way we handle information.
+My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where I can implement positive change to the way we handle information for the interim (Gotta pay the mortgage!) then move onto something like Google.
 
 # Ideal Job
 When i think of an ideal programmer career I think about Google. Maps, Street view, Android (yes i know didnt start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
@@ -72,12 +72,12 @@ It is an engineering company, Sure there to make a buck but I believe are succes
 They want a post grad, assuming adept knowledge in programming in some languages, not all. Understanding of IT, Software Development. Also mentions experience in networking prograaming (Assuming routing tables, maintaining patches, PowerShell). Experience in multiple OS (Operating Systems).
 
 I possess the following skills relating to the role:
-    * OO (Object Orientated) programming languages. Java, C#, JS, Basic HTML, bash.
-    * Networking hardware. Router configuration, patch panels, installing rack mount hardware, 
-    * Working in teams groups 
-    * Excellent communication skills 
-    * Honesty & Integrity
-    * Fun to have around!
+* OO (Object Orientated) programming languages. Java, C#, JS, Basic HTML, bash.
+* Networking hardware. Router configuration, patch panels, installing rack mount hardware, 
+* Working in teams groups 
+* Excellent communication skills 
+* Honesty & Integrity
+* Fun to have around!
 
 
 ### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
