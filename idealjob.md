@@ -48,4 +48,4 @@ My plan is to finish my Bachelors with RMIT! Keep my Linkedin profile up to date
 
 ___
 
-[back][home]
+[Back][home]

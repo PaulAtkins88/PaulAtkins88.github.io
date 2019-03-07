@@ -27,4 +27,4 @@ title: Personal Information
 
 ___
 
-[back][home]
+[Back][home]

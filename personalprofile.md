@@ -48,4 +48,4 @@ Try and align myself with other individuals that have high competencies to get a
 
 ___
 
-[back][home]
+[Back][home]

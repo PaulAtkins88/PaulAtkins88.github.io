@@ -63,4 +63,4 @@ Also, the learning benefits for the developer, Multiple java files and activity 
 
 ___
 
-[back][home]
+[Back][home]
