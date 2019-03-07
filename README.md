@@ -1,6 +1,5 @@
 # Paul Atkins
 
-
 Website created for Introduction to Information Technology - RMIT 
 Assignment 1.
 

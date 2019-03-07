@@ -1,6 +1,7 @@
 ---
 title: Introduction to IT - Assignment 1
 author: Paul Atkins
+[Interests](interest)
 ---
 
 <!-- References for links -->
