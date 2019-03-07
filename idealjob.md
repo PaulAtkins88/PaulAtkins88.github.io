@@ -17,7 +17,7 @@ title: My Ideal Job
 [learningStyle]:img/learningStyle.png "Learning style Result"
 
 # Ideal Job
-When i think of an ideal programmer career I think about Google. Maps, Street view, Android (yes i know didnt start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
+When I think of an ideal programmer career I think about Google. Maps, Street view, Android (yes I know Android did not start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
 
 [Google Software Engineer][googleLink] 
 
