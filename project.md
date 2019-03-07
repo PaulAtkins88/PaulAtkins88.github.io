@@ -1,4 +1,6 @@
 <!-- References for links -->
+[home]:index "Home"
+
 [pascal_wiki]: https://en.wikipedia.org/wiki/Pascal_(programming_language) "Pascal"
 [c_wiki]: https://en.wikipedia.org/wiki/C_(programming_language) "C Language"
 [esta]: https://www.esta.vic.gov.au "Emergency Services Telecommunications Authority"
@@ -54,3 +56,6 @@ If this is successful, the outcome would be a lot of happy 000 employees who lik
 This will change things for a lot of employees who need to make decisions based on their wages (I know not everyone lives pay to pay but a lot do). In a down week of only week day shifts (no penalties) you might try and pickup some overtime and vice versa if your normal roster is all weekend shifts (very high penalties) you may want to purchase that new laptop and 2 new screens because the budget allows.
 
 Also, the learning benefits for the developer, Multiple java files and activity xml’s, 2D arrays and HashMap’s! How do you even get an app on the Play Store? Well now I know…
+
+
+[back][home]

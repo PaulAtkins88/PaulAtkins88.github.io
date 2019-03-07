@@ -1,5 +1,5 @@
 <!-- References for links -->
-[home]:[index.md] "Home"
+[home]:index "Home"
 [pascal_wiki]: https://en.wikipedia.org/wiki/Pascal_(programming_language) "Pascal"
 [c_wiki]: https://en.wikipedia.org/wiki/C_(programming_language) "C Language"
 [esta]: https://www.esta.vic.gov.au "Emergency Services Telecommunications Authority"

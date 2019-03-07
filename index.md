@@ -4,11 +4,11 @@ author: Paul Atkins
 ---
 
 <!-- References for links -->
-[peronal_info]:[personalinfo.md] "Personal Info"
+[peronal_info]:personalinfo "Personal Info"
 [interest]:interest "Interests"
-[idealjob]:idealjob.md "My ideal job"
-[personalprofile]:personalprofile.md "Personal Profile"
-[project]:project.md "Project"
+[idealjob]:idealjob "My ideal job"
+[personalprofile]:personalprofile "Personal Profile"
+[project]:project "Project"
 
 [pascal_wiki]: https://en.wikipedia.org/wiki/Pascal_(programming_language) "Pascal"
 [c_wiki]: https://en.wikipedia.org/wiki/C_(programming_language) "C Language"
