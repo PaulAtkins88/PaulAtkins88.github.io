@@ -25,16 +25,21 @@ author: Paul Atkins
 
 
 [My Personal Info][personal_info]
+
 ___
 
 [My Interests][interest]
+
 ___
 
 [My Ideal Job][idealjob]
+
 ___
 
 [My Personal Profile][personalprofile]
+
 ___
 
 [My Project][project]
+
 ___
