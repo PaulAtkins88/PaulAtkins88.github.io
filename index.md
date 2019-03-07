@@ -24,4 +24,8 @@ author: Paul Atkins
 
 
 
+[My Personal Info][personal_info]
 [My Interests][interest]
+[My Ideal Job][idealjob]
+[My Personal Profile][personalprofile]
+[My Project][project]

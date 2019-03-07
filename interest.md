@@ -1,3 +1,7 @@
+---
+title: My Interests
+---
+
 <!-- References for links -->
 [home]:index "Home"
 [pascal_wiki]: https://en.wikipedia.org/wiki/Pascal_(programming_language) "Pascal"
