@@ -1,3 +1,7 @@
+---
+title: My Ideal Job
+---
+
 <!-- References for links -->
 [home]:index "Home"
 

@@ -1,3 +1,7 @@
+---
+title: My Personal Profile
+---
+
 <!-- References for links -->
 [home]:index "Home"
 

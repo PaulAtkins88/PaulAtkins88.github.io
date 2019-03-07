@@ -1,3 +1,7 @@
+---
+title: My Project Idea
+---
+
 <!-- References for links -->
 [home]:index "Home"
 

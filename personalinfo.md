@@ -1,3 +1,7 @@
+---
+title: Personal Information
+---
+
 <!-- References for links -->
 [home]:index "Home"
 
