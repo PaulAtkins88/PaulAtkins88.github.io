@@ -29,7 +29,7 @@ ___
 
 ### A description (in your own words) of the position, and particularly what makes this position appealing to you.
 Google are seeking a graduate after finishing university, someone to help with current projects and also to bring new ideas and new innovations. Google promote creativity! 
-It is an engineering company, Sure there to make a buck but I believe are successful due to wanting to make the world of electronic engineering better than before. I would love to start a career with Google as I believe it would never become mundane, the possibilities alone to work in Australia, or anywhere in the world. And I hear they have a slide.
+It is an engineering company, sure there to make a buck but I believe are successful due to wanting to make the world of electronic engineering better than before. I would love to start a career with Google as I believe it would never become mundane, the possibilities alone to work in Australia, or anywhere in the world. And I hear they have a slide.
 
 ### A description (in your own words) of the skills, qualifications and experience required for the position.
 They want a post grad, assuming adept knowledge in programming in some languages, not all. Understanding of IT, Software Development. Also mentions experience in networking prograaming (Assuming routing tables, maintaining patches, PowerShell). Experience in multiple OS (Operating Systems).

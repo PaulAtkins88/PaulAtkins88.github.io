@@ -25,7 +25,7 @@ There is currently an Excel spreadsheet that has been developed over many years,
 The app will be a one tap display of your current net pay. A lot of people at my workplace have shown a great interest for this.
 
 ## Description 
-The app will be designed initially on Android Studio using Java programming language and xml style android tabs. The design will be a bottom navigation pane with 2 options for “Fortnight Pay” and “Settings”. It will be available on Google’s Play Store at a cost of $10 to the user, Ad free.
+The app will be designed initially on Android Studio using Java programming language and xml style android tabs. The design will be a bottom navigation pane with 2 options for “Fortnight Pay” and “Settings”. It will be available on Google’s Play Store at a cost of $10 to the user, ad free.
 
 The intention to port to Apple IOS at a later date (after I learn how to create IOS applications because at the moment I haven’t even looked at it).
 
@@ -59,7 +59,7 @@ If this is successful, the outcome would be a lot of happy 000 employees who lik
 
 This will change things for a lot of employees who need to make decisions based on their wages (I know not everyone lives pay to pay but a lot do). In a down week of only week day shifts (no penalties) you might try and pickup some overtime and vice versa if your normal roster is all weekend shifts (very high penalties) you may want to purchase that new laptop and 2 new screens because the budget allows.
 
-Also, the learning benefits for the developer, Multiple java files and activity xml’s, 2D arrays and HashMap’s! How do you even get an app on the Play Store? Well now I know…
+Also, the learning benefits for the developer, multiple java files and activity xml’s, 2D arrays and HashMap’s! How do you even get an app on the Play Store? Well now I know…
 
 ___
 
