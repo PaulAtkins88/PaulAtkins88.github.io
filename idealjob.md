@@ -20,8 +20,11 @@ title: My Ideal Job
 When i think of an ideal programmer career I think about Google. Maps, Street view, Android (yes i know didnt start at Google but was purchased by them in 2005), Web development the list is endless, hence the career possibilities aswell.
 
 [Google Software Engineer][googleLink] 
+
 ___
+
 ![Google Software Engineer][googleJob]
+
 ___
 
 ### A description (in your own words) of the position, and particularly what makes this position appealing to you.
