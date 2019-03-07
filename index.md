@@ -4,7 +4,7 @@ author: Paul Atkins
 ---
 
 <!-- References for links -->
-[peronal_info]:personalinfo "Personal Info"
+[personal_info]:personalinfo "Personal Info"
 [interest]:interest "Interests"
 [idealjob]:idealjob "My ideal job"
 [personalprofile]:personalprofile "Personal Profile"
