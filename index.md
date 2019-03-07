@@ -5,7 +5,7 @@ author: Paul Atkins
 
 <!-- References for links -->
 [peronal_info]:[personalinfo.md] "Personal Info"
-[interest]:interest.md "Interests"
+[interest]:interest "Interests"
 [idealjob]:idealjob.md "My ideal job"
 [personalprofile]:personalprofile.md "Personal Profile"
 [project]:project.md "Project"
