@@ -22,7 +22,17 @@
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline"><a href="interests" class="btn">Interests</a></h2>
+      <h2 class="project-tagline">
+        <a href="index" class="btn">Home</a>
+        <a href="personalinfo" class="btn">Personal Information</a>
+        <a href="interest" class="btn">Interests</a>
+        <a href="idealjob" class="btn">Ideal Job</a>
+        <a href="personalprofile" class="btn">Personal Profile</a>
+        <a href="project" class="btn">Project</a>
+      
+      
+      
+      </h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
