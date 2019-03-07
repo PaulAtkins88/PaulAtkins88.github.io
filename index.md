@@ -4,7 +4,7 @@ author: Paul Atkins
 ---
 
 <!-- References for links -->
-[personal_info]:personalinfo "Personal Info"
+[personal_info]:personalinfo "Personal Information"
 [interest]:interest "Interests"
 [idealjob]:idealjob "My ideal job"
 [personalprofile]:personalprofile "Personal Profile"
@@ -25,7 +25,12 @@ author: Paul Atkins
 
 
 [My Personal Info][personal_info]
+___
 [My Interests][interest]
+___
 [My Ideal Job][idealjob]
+___
 [My Personal Profile][personalprofile]
+___
 [My Project][project]
+___
