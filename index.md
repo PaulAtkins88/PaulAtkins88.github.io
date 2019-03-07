@@ -11,6 +11,9 @@ author: Paul Atkins
 [googleLink]: https://careers.google.com/jobs/results/82102238182286022/ "Google Software Engineer"
 <!-- References for images -->
 [googleJob]:img/googleJob.png "Google Software Engineer"
+[mbtiResult]:img/mbtiResult.png "MBTI Result"
+[bigFiveResult]:img/bigFiveResult.png "Big 5 Result"
+[learningStyle]:img/learningStyle.png "Learning style Result"
 
 
 
@@ -86,18 +89,18 @@ My plan is to finish my Bachelors with RMIT! Keep my Linkedin profile up to date
 
 # Personal Profile
 
-### The results of an online Myers-Briggs test. <!-- https://www.16personalities.com/profiles/b4a3e22f20a4f -->
+### The results of an online Myers-Briggs test. ![MBTI Result][mbtiResult]
 
 The results of the MBTI test seem to make me feel like a fence sitter! with most of the personality traits being very even, tipping only so slightly in one direction. 
 I agree that i am an extraverted person and dont have any trouble identifying in a group and I am energised by social interaction. Whilst I do like coding by myself, I do like to have input on design and how a program should function. Under the energy subtitle it calls me observant which is half correct, depends on the exercise. Listening to the wife about groceries and what needs to be done around the house? Not so much. When it comes to working on a group project this is correct i like to stay factual and keep a group moving forward rather than procrastation. I wouldnt put myself in the "Feeling" category though, I do believe in harmony in groups but struggle sometimes with other peoples emotions - "Lets just get it done!" Hence the next two titles puts me in the "Judging" & "Assertive" categories... agreed.
 
 
 
-### The results of an online learning style test. <!-- img/learningStyle.png -->
+### The results of an online learning style test. ![Learning Style][learningStyle]
 
 100% agree with this, I am a visual learner. I have self taught myself all my coding languages by reading pdf's, watching YouTube tutorials. It goes on to say that I have difficulty with spoken directions? Incorrect its how I learn! Following what someone is doing and then going to read about it to fully understand. "distracted by sounds"? Whilst writing this now I have two young kids running around screaming daddy whilst mum says please be quiet also have music in my ears so I dont know how accurate this one is.
 
-### The results of one further online test of your choosing. <!-- https://www.123test.com/report/ENC1VSNHSKXQJQ -->
+### The results of one further online test of your choosing. ![Big Five Result][bigFiveResult]
 
 I chose the Big Five test (was going to do a speed coder test, thought this might be more relevant). As per the MBTI test it puts me in the Extravert category, again I agree with this I enjoy group work, I get along well with others. 
 
@@ -158,10 +161,3 @@ If this is successful, the outcome would be a lot of happy 000 employees who lik
 This will change things for a lot of employees who need to make decisions based on their wages (I know not everyone lives pay to pay but a lot do). In a down week of only week day shifts (no penalties) you might try and pickup some overtime and vice versa if your normal roster is all weekend shifts (very high penalties) you may want to purchase that new laptop and 2 new screens because the budget allows.
 
 Also, the learning benefits for the developer, Multiple java files and activity xml’s, 2D arrays and HashMap’s! How do you even get an app on the Play Store? Well now I know…
-
-
-
-
-
-
-
