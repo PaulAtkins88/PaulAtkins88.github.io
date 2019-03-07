@@ -42,5 +42,6 @@ As said before, the results highlight areas that may not be productive in a team
 
 Try and align myself with other individuals that have high competencies to get a balanced group. Be mindful of my strong traits and possibly dial back a bit and listen. 
 
+___
 
 [back][home]

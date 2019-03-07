@@ -21,5 +21,6 @@
 * Hobbies - Goofing around with my kids! Watching trashy TV with my beautiful wife. In my personal time I write code, I am currently working on an android application specifically for my work that will calculate a years roster and display the current net take home dollar amount in 1 click (this is a bit tricky as we rotate 2 days, 2 nights, 4 off with different penalties depending on the day/night you are working.)
 * Fun Fact - I like to play squash and go skateboarding with my daughters.
 
+___
 
 [back][home]

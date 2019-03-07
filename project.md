@@ -57,5 +57,6 @@ This will change things for a lot of employees who need to make decisions based 
 
 Also, the learning benefits for the developer, Multiple java files and activity xml’s, 2D arrays and HashMap’s! How do you even get an app on the Play Store? Well now I know…
 
+___
 
 [back][home]

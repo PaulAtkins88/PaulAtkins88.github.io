@@ -39,5 +39,6 @@ I possess the following skills relating to the role:
 ### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
 My plan is to finish my Bachelors with RMIT! Keep my Linkedin profile up to date and pay attention to Googles development profile on Linkedin.
 
+___
 
 [back][home]

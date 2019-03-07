@@ -47,4 +47,6 @@ My favourite has been Java as it is widely used on many devices and is the main 
 
 My expectation of this course is to come away with the qualifications required to move from Operations at ESTA to the ITS department where I can implement positive change to the way we handle information for the interim (Gotta pay the mortgage!) then move onto something like Google.
 
+___
+
 [back][home]
