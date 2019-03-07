@@ -1,5 +1,5 @@
 # Paul Atkins
-Introduction to Information Technology - RMIT
+
 
 Website created for Introduction to Information Technology - RMIT 
 Assignment 1.
