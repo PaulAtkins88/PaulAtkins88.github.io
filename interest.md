@@ -30,9 +30,9 @@ We then moved to Ballarat after she finished her degree so she could work at the
 
 My friend advised me of an opportunity arising in Ballarat with [ESTA][esta] working for 000 Emergency. I believed and still do believe that it is a rewarding career with alot of pathways to other roles inside the Emergency Services Sector and I applied.
 
-Then comes Marriage, children and a mortgage - Suddenly I cannot resume my goal of working in the IT environment due to the fact I cant drop wage a cent to pursue full time study.
+Then comes marriage, children and a mortgage - Suddenly I cannot resume my goal of working in the IT environment due to the fact I can't drop wage a cent to pursue full time study.
 
-Its then someone at work said "Hey have you had a look at [OUA][oua]? I got excited about the fact that I could work fulltime and study in the down periods and on my days off.
+It was when someone at work said "Hey have you had a look at [OUA][oua]? I got excited about the fact that I could work fulltime and study in the down periods and on my days off.
 
 I chose RMIT over Swinburne primarily because "Royal Melbourne **Institute of Technology**" made sense to me wanting to do a Bachelors in Information Technology. After doing some research on the lectures and job opportunities at RMIT it just cemented by decision.
 
