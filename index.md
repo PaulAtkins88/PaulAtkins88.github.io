@@ -10,6 +10,7 @@ layout: default
 [idealjob]:idealjob "My ideal job"
 [personalprofile]:personalprofile "Personal Profile"
 [project]:project "Project"
+[refrences]:refrences "References"
 
 [pascal_wiki]: https://en.wikipedia.org/wiki/Pascal_(programming_language) "Pascal"
 [c_wiki]: https://en.wikipedia.org/wiki/C_(programming_language) "C Language"
@@ -42,5 +43,8 @@ ___
 ___
 
 [My Project][project]
+
+___
+[Refrences][refrences]
 
 ___
