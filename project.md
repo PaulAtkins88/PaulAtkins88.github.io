@@ -55,7 +55,7 @@ I envision doing this project solo due to knowing the requirements of the workpl
 
 
 ## Outcome
-If this is successful, the outcome would be a lot of happy 000 employees who like to know how much are they getting paid every fortnight without having to wait 10-15 minutes to find a computer/laptop and boot it up.
+If this is successful, the outcome would be a lot of happy 000 employees who like to know how much they are getting paid every fortnight without having to wait 10-15 minutes to find a computer/laptop and boot it up.
 
 This will change things for a lot of employees who need to make decisions based on their wages (I know not everyone lives pay to pay but a lot do). In a down week of only week day shifts (no penalties) you might try and pickup some overtime and vice versa if your normal roster is all weekend shifts (very high penalties) you may want to purchase that new laptop and 2 new screens because the budget allows.
 
