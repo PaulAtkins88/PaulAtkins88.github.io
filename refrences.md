@@ -18,5 +18,5 @@ title: Refrences
 
 [ESTA](https://www.esta.vic.gov.au)
 
-[RMIT](https://www.rmit.vic.edu.au)
+[RMIT](https://www.rmit.edu.au)
 
