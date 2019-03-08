@@ -26,7 +26,7 @@ I think we had a Commodore VIC20 at the time, I guess this is where I started ga
 At about the age of 23-24 years old I was engaged and living with my now wife and decided to go back and finish my Diploma, I had to start again at CERT IV and then the Diploma the year after. After completing this the idea was to go into a Computing Science degree and I would continue on.
 
 Life got in the way, my fiance wanted to finish her degree in Nursing so I put aside my education and got a full time job managing fast food restaurants. 
-We then moved to Ballarat after she finished her degree so she could work at the Ballarat Base Hospital and I started work at Harvey Norman, which didnt last long and if you ask anyone who works there, they would understand why. 
+We then moved to Ballarat after she finished her degree so she could work at the Ballarat Base Hospital and I started work at Harvey Norman, which didn't last long and if you ask anyone who works there, they would understand why. 
 
 My friend advised me of an opportunity arising in Ballarat with [ESTA][esta] working for 000 Emergency. I believed and still do believe that it is a rewarding career with alot of pathways to other roles inside the Emergency Services Sector and I applied.
 
