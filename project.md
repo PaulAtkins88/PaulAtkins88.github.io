@@ -42,7 +42,7 @@ The application will also calculate if the user takes leave (annual/personal) an
 I have spoken to ESTA management about this and agreed upon the terms that it must not have any ESTA logo’s, references and must be submitted prior to putting the application live on the Google Play Store.
 
 ## Tools and Technologies
-I will be using Android Studio which is based on JetBrains’ IntelliJ IDEA software. The application will be coded in Java programming language and the GUI in xml files which Android Studio creates for the developer but also allows to manual editing.
+I will be using Android Studio which is based on JetBrains’ IntelliJ IDEA software. The application will be coded in Java programming language and the GUI in xml files which Android Studio creates for the developer but also allows for manual editing.
 
 My old laptop (2011 Toshiba 15”) made doing any software development difficult due to screen size and processing power so as a result I have purchased a new Acer Predator 17” laptop (primarily for my RMIT course) 2 Phillips 25” monitors which are wall mounted to make it easy to have code 1 side and final product the other side as well as the Oracle website for referencing methods. 
 
