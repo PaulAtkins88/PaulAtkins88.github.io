@@ -1,6 +1,3 @@
-# Paul Atkins
+# PaulAtkins88.github.io
 
-Website created for Introduction to Information Technology - RMIT 
-Assignment 1.
-
-view site by visiting https://PaulAtkins88.github.io
+Redirects to [paulatkins.com.au](https://www.paulatkins.com.au/).
